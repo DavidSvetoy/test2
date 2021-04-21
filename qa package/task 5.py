@@ -1,0 +1,5 @@
+n1=int(input("enter num between 1-9"))
+n2=int(input("enter num between 1-9"))
+n3=int(input("enter num between 1-9"))
+print(f"{n1}{n2}{n3}")
+print(f"{n1*n2*n3}")
